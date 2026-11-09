@@ -5,6 +5,7 @@
 // @version         1.0
 // @author          Markc719
 // @github          https://github.com/Markc719
+// @homepage        https://github.com/Markc719/desktop-app-groups
 // @include         explorer.exe
 // @architecture    x86-64
 // @compilerOptions -luuid -lole32 -lshell32 -lshlwapi -lcomctl32 -lgdi32 -lmsimg32 -ldwmapi -lshcore -ladvapi32 -luser32 -lcomdlg32
@@ -18,6 +19,12 @@
 Group your desktop icons into folders that work like Start menu folders.
 Drag one app onto another to make a group, then click the group to open it
 in a popup beside it.
+
+![A group open on the desktop](https://raw.githubusercontent.com/Markc719/desktop-app-groups/main/Screenshot%202026-11-09%20103044.png)
+
+![The group settings panel](https://raw.githubusercontent.com/Markc719/desktop-app-groups/main/Screenshot%202026-11-09%20103051.png)
+
+![A group's icon on the desktop](https://raw.githubusercontent.com/Markc719/desktop-app-groups/main/Screenshot%202026-11-09%20103033.png)
 
 ## Features
 
